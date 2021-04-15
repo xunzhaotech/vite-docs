@@ -28,7 +28,7 @@ module.exports = {
             { text: '关于', link: '/about/' },
         ],
         sidebar: [  //   侧边导航
-            { text: '我的', link: '/mine/' }
+            { text: '引导', link: '/guide/' }
         ]
     }
 }
