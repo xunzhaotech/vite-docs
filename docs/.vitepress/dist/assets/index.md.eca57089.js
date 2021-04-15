@@ -1,0 +1,1 @@
+import{o as t,c as e,a as r}from"./app.110e51a1.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1618472838355}',l={},n=r("p",null,"��#� �H�e�l�l�o� �V�i�t�e�P�r�e�s�s� � �",-1);l.render=function(r,a,l,o,i,s){return t(),e("div",null,[n])};export default l;export{a as __pageData};
