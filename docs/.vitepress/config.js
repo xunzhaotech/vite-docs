@@ -8,7 +8,7 @@ module.exports = {
     title: "vite-docs",                 // 网站标题
     description: '快速搭建文档平台模板.', // 网站描述
     base: '/',                          // 部署时的路径 默认 /  可以使用二级地址 /base/
-    lang: 'en-US',                      // 语言
+    // lang: 'en-US',                      // 语言
     repo: 'vuejs/vitepress',
     head: [
         // 改变title的图标
